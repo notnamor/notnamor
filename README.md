@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @notnamor
-- 👀 I’m interested in Web Developing ang VB.net
+- 👀 I’m interested in Web Developing and VB.net
 - 🌱 I’m currently learning HTML5, CSS, Jquery, and VB.net
 
 <!---
